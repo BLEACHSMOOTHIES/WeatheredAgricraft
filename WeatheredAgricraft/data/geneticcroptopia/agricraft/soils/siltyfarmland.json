@@ -1,0 +1,13 @@
+{
+  "mods": [],
+  "variants": [
+    {
+      "block": "immersive_weathering:silty_farmland"
+    }
+  ],
+  "acidity": "neutral",
+  "humidity": "watery",
+  "nutrients": "high",
+  "growth_modifier": 1
+}
+

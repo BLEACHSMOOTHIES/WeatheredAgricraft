@@ -1,0 +1,13 @@
+{
+  "mods": [],
+  "variants": [
+    {
+      "block": "immersive_weathering:loamy_farmland"
+    }
+  ],
+  "acidity": "neutral",
+  "humidity": "damp",
+  "nutrients": "high",
+  "growth_modifier": 1.0
+}
+

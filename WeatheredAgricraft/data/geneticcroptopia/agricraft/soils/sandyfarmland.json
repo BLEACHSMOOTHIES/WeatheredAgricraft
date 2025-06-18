@@ -1,0 +1,13 @@
+{
+  "mods": [],
+  "variants": [
+    {
+      "block": "immersive_weathering:sandy_farmland"
+    }
+  ],
+  "acidity": "slightly_acidic",
+  "humidity": "dry",
+  "nutrients": "low",
+  "growth_modifier": 0.7
+}
+

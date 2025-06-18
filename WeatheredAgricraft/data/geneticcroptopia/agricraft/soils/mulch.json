@@ -1,0 +1,13 @@
+{
+  "mods": [],
+  "variants": [
+    {
+      "block": "immersive_weathering:mulch_block"
+    }
+  ],
+  "acidity": "neutral",
+  "humidity": "wet",
+  "nutrients": "medium",
+  "growth_modifier": 0.6
+}
+
